@@ -1,7 +1,7 @@
 package app;
 
-public class Gary {
+public class Nain {
 	public static void main(String[] args) {
-		System.out.println("Gary!!!!");
+		System.out.println("Nain!");
 	}
 }
